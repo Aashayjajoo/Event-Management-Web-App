@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+
+.feature-list {
+	background-color: #603EA5;
+	color : #fff;
+	height : -webkit-fill-available;
+}
+.nav-top {
+	position: absolute;
+    height: inherit;
+    width: inherit;
+    background-color: #5c5757;
+    color: #fff;
+}
+
+.feature-list-title {
+	background-color : #009fee;
+	color: #fff;
+	padding-left: 32px;
+    padding-top: 18px;
+}
+
+.page-title {
+	background-color: #683594;
+    text-align: center;
+    color: #fff;
+    font-size: 28px;
+    margin-top: -20px;
+}
+.btn-floating.btn-large {
+    width: 56px;
+    height: 56px;
+    float: right;
+    margin-right: 24px;
+    margin-top: -50px;
+}
+.tabs {
+	border-bottom: 3px solid antiquewhite;
+}
